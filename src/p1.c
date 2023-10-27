@@ -3,7 +3,7 @@
 #include <ctype.h>
 #pragma warning (disable:4996)
 
-void main() {
+void sorting() {
 	int input[99];
 	int output[99];
 	int count = 0;
